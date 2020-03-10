@@ -7,4 +7,3 @@
 4_2. [02_hard](https://maximstelmakh.github.io/homework4_2/02_hard.html)  
 5. [casper](https://maximstelmakh.github.io/homework5/)  
 6_1. [Services.psd](https://maximstelmakh.github.io/homework6_1/)  
-6_2. [CSS Diner Shopping List](https://maximstelmakh.github.io/homework6_2/)  
