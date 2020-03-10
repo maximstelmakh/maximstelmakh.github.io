@@ -6,3 +6,4 @@
 4_1. [01_simple](https://maximstelmakh.github.io/homework4/01_simple)  
 4_2. [02_hard](https://maximstelmakh.github.io/homework4_2/02_hard.html)  
 5. [casper](https://maximstelmakh.github.io/homework5/)  
+6_1. [Services.psd](https://maximstelmakh.github.io/homework6_1/)  
