@@ -8,3 +8,4 @@
 5.[casper](https://maximstelmakh.github.io/homework5/)  
 6_1. [Services.psd](https://maximstelmakh.github.io/homework6_1/)  
 6_2. [CSS Diner Shopping List](https://maximstelmakh.github.io/homework6_2/)  
+7_0. [Newsletter](https://maximstelmakh.github.io/homework7_0/index.html)  
