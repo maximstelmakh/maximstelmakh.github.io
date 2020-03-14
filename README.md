@@ -9,3 +9,4 @@
 6_1. [Services.psd](https://maximstelmakh.github.io/homework6_1/)  
 6_2. [CSS Diner Shopping List](https://maximstelmakh.github.io/homework6_2/)  
 7_0. [Newsletter](https://maximstelmakh.github.io/homework7_0/index.html)  
+7_1. [HELLO & NAMASTE](https://maximstelmakh.github.io/homework7_1/index.html)  
